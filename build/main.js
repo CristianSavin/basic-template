@@ -69,7 +69,6 @@
 
 __webpack_require__(1);
 (function webpackMissingModule() { throw new Error("Cannot find module \"run\""); }());
-(function webpackMissingModule() { throw new Error("Cannot find module \"start\""); }());
 
 
 /***/ }),
@@ -80,7 +79,7 @@ __webpack_require__(1);
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__menu__ = __webpack_require__(2);
 
-var menu = Object(__WEBPACK_IMPORTED_MODULE_0__menu__["a" /* default */])(['Principala' , 'Despre mine' , 'Portfolio'] , 'menu');
+var menu = Object(__WEBPACK_IMPORTED_MODULE_0__menu__["a" /* default */])(['Principala' , 'Despre mine' , 'Portfolio', 'Mapa'] , 'menu');
 document.body.appendChild(menu);
 
 /***/ }),
