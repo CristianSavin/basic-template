@@ -1,0 +1,22 @@
+{
+  "name": "webpack-app",
+  "version": "1.0.0",
+  "description": "Webpack-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianSavin/basic-template.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Cristian Savin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianSavin/basic-template/issues"
+  },
+  "homepage": "https://github.com/CristianSavin/basic-template#readme"
+}
