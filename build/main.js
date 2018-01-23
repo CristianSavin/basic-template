@@ -65,25 +65,17 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports, __webpack_require__) {
-
-__webpack_require__(1);
-(function webpackMissingModule() { throw new Error("Cannot find module \"run\""); }());
-
-
-/***/ }),
-/* 1 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__menu__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__menu__ = __webpack_require__(1);
 
-var menu = Object(__WEBPACK_IMPORTED_MODULE_0__menu__["a" /* default */])(['Principala' , 'Despre mine' , 'Portfolio', 'Mapa'] , 'menu');
+var menu = Object(__WEBPACK_IMPORTED_MODULE_0__menu__["a" /* default */])(['Principala' , 'Despre mine' , 'Portfolio', 'Mapa' , 'Miau' , 'Alo'] , 'menu');
 document.body.appendChild(menu);
 
 /***/ }),
-/* 2 */
+/* 1 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
