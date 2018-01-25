@@ -446,7 +446,9 @@ template {
   display: none;
 }
 ul {
-  border: 1px solid #777; }
+  border: 1px solid #777;
+  background: url(../images/menu.png) no-repeat;
+  background-size: contain; }
   ul li {
     display: inline-block;
     padding: 5px 10px;
